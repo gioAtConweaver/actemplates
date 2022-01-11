@@ -1,4 +1,5 @@
 ﻿<template>
-  <description>An empty project (project file only).</description>
-  <icon>icon.png</icon>
+	<shortDescription>An empty project (project file only).</shortDescription>
+	<description>This is the same empty project as "empty project". The fancy part is, that it's content is hosted in a remote git repository and that it's description is a little more sophisticated.</description>
+	<icon>icon.png</icon>
 </template>
