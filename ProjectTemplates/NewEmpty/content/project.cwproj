@@ -1,0 +1,19 @@
+<Project TargetFramework="{TargetFramework}">
+  <GlobalVariables />
+  <Exclude>
+    <Pattern>bin/**</Pattern>
+    <Pattern>*.zip</Pattern>
+    <Pattern>.git/**</Pattern>
+    <Pattern>.svn/**</Pattern>
+    <Pattern>.gitignore</Pattern>
+    <Pattern>.npmrc</Pattern>
+    <Pattern>npmpackages/**</Pattern>
+    <Pattern>package.json</Pattern>
+  </Exclude>
+  <AssetsFolder />
+  <Scripts />
+  <Styles />
+  <Packages>
+  </Packages>
+  <StartupPage />
+</Project>
