@@ -1,0 +1,14 @@
+<PageMaster>
+  <Variables>
+    <Private/>
+    <Public/>
+  </Variables>
+  <EventHandlers>
+    <LifeCycleEventHandler Event="OnInit" Handler="{_Page_Pagemaster.OnInit()}"/>
+  </EventHandlers>
+  <Layout Type="Simple">
+    <ContentBox Name="Content">
+        <Placeholder Name="Content"/>
+    </ContentBox>
+  </Layout>
+</PageMaster>

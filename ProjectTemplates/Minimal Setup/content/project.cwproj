@@ -10,10 +10,11 @@
     <Pattern>npmpackages/**</Pattern>
     <Pattern>package.json</Pattern>
   </Exclude>
-  <AssetsFolder />
+  <AssetsFolder>assets</AssetsFolder>
   <Scripts />
   <Styles />
   <Packages>
   </Packages>
-  <StartupPage />
+  <StartupPage>Welcome</StartupPage>
+  <NotFoundPage>NotFound</NotFoundPage>
 </Project>

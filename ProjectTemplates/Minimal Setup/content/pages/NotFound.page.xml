@@ -1,0 +1,13 @@
+<Page Master="_Page.pagemaster.xml">
+  <Variables>
+    <Private/>
+    <Public/>
+  </Variables>
+  <EventHandlers>
+    <LifeCycleEventHandler Event="OnInit" Handler="{NotFound_Page.OnInit()}"/>
+  </EventHandlers>
+  <Layout>
+    <ContentBox Name="Content">
+    </ContentBox>
+  </Layout>
+</Page>
